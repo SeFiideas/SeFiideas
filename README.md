@@ -188,9 +188,7 @@
 
 ----------
 
-- 🔭 I am currently working on fun and creative projects  
-- 🌱 I’m currently learning 
-- 👯 I am looking for cooperation in big and small projects 
-- 📫 Email: SeFi6915@gmail.com 
-      
+my activitys:
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
