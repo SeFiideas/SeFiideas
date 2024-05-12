@@ -1,5 +1,6 @@
 <h1>𝕙𝕖𝕝𝕝𝕠 𝕞𝕪 𝕗𝕣𝕖𝕟𝕕👋😀, 𝚒𝚖 𝑆𝑒𝐹𝑖</h1>
 
+![tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500](https://github.com/SeFiideas/SeFiideas/assets/100835730/94b593bd-68ad-432c-abb3-52ab66048f9e)
 
 
 ----------
